@@ -29,6 +29,5 @@ if (-not $env:STARSHIP_SESSION_KEY) {
     & starship init powershell | Invoke-Expression
 }
 
-
-
 ````
+starship para personalizar o terminal
